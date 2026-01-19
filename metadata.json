@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "published_at": "2026-01-19",
+  "rules_url": "https://<YOUR_GITHUB_USERNAME>.github.io/cosmetic-rules/rules_pack.json",
+  "sha256": "22226a862c39e310398b0297091cd185a5473cb6dd8686dcfa213e7774ed7a53",
+  "changelog": [
+    "Auto-build 2026-01-19: Annex III refresh (cached export)."
+  ],
+  "sources": [
+    "CosIng (European Commission) – Annex III export (cached in repo)",
+    "Manual future rules (optional)"
+  ]
+}
